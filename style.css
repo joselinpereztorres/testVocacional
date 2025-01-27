@@ -327,14 +327,14 @@
 
 .respuesta .res {
     text-transform: uppercase;
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 700;
     letter-spacing: 1rem;
 }
 
 .respuesta p,
 p strong {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .respuesta .carreras {
@@ -360,5 +360,5 @@ p strong {
     align-items: center;
     top: 50%;
     left: 50%;
-    transform: translate(100%, 90%);
+    transform: translate(75%, 30%);
 }
